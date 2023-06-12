@@ -1,0 +1,19 @@
+.title {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+}
+
+.messageUser {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    font-size: 36px;
+    color: rgb(36, 100, 196);
+}
+
+.loader{
+    display: flex;
+    justify-content: center;
+}
